@@ -1,5 +1,5 @@
 # scRNA-seq_CMs
-a comprehensive single-cell reference using published snRNA-seq datasets for ACM, DCM, HCM, and ICM to explore the commonalities and distinctions in cellular landscapes and intercellular communication networks across various cardiomyopathy subtypes
+A comprehensive single-cell reference using published snRNA-seq datasets for ACM, DCM, HCM, and ICM to explore the commonalities and distinctions in cellular landscapes and intercellular communication networks across various cardiomyopathy subtypes
 
 Background:
 
